@@ -1,6 +1,6 @@
 # Heroes App
 
-Esta es una aplicación de búsqueda de héroes desarrollada con React.
+Esta es una aplicación de búsqueda de héroes desarrollada con React + Vite.
 
 ## Características
 
@@ -42,7 +42,7 @@ Esta es una aplicación de búsqueda de héroes desarrollada con React.
 - `react`: ^17.0.2
 - `react-dom`: ^17.0.2
 - `react-router-dom`: ^5.2.0
-- `query-string`: ^6.14.0 
+- `query-string`: ^6.14.0
 
 ## Contribuir
 
